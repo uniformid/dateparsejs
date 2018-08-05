@@ -1,0 +1,24 @@
+{
+  "name": "dateparsejs",
+  "version": "0.0.1",
+  "description": "parsing date",
+  "main": "dateparsejs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uniformid/dateparsejs.git"
+  },
+  "keywords": [
+    "parsing",
+    "date",
+    "dateparse"
+  ],
+  "author": "Erwin W Ramadhan <erwinwahyuramadhan@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uniformid/dateparsejs/issues"
+  },
+  "homepage": "https://github.com/uniformid/dateparsejs#readme"
+}
