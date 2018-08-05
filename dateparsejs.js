@@ -1,4 +1,4 @@
-const dateParse = (value) => {
+module.exports = function dateParse(value) {
   let splitDate = value.split('-')
   let date = splitDate[2].split('T')[0]
   let month = splitDate[1]
@@ -31,5 +31,3 @@ const dateParse = (value) => {
   }
   return `${date} ${month} ${year}`
 }
-
-module.export = dateParse
