@@ -32,4 +32,4 @@ const dateParse = (value) => {
   return `${date} ${month} ${year}`
 }
 
-export default dateParse
+module.export = dateParse
